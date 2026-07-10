@@ -6,8 +6,8 @@ I build **AI-powered applications, automation systems, full-stack software, and 
 
 🎓 B.Sc. Software Engineering (2023–2027)  
 📍 Gujrat, Pakistan  
-🌐 Portfolio: https://portfolio-os1.netlify.app  
-💼 LinkedIn: https://linkedin.com/in/haideralio73  
+🌐 Portfolio:  https://haider-portfolio-tawny.vercel.app/
+💼 LinkedIn:   www.linkedin.com/in/haider-ali-a42a35369
 📧 Email: haohi3567@gmail.com
 
 ---
